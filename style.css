@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(#9d9e9e 0%,#ffffff 100%);
+}
+#myself{
+    background: linear-gradient(#0ce4e4 0%,#11be11 100%);
+    margin: 30px;
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#mygame{
+    
+    margin: 40px;
+    text-align: left;
+    padding-right:20px;
+    font-size:20px;
+
+}
+#whyIB{
+    
+    margin: 40px;
+    text-align: left;
+    padding-right:20px;
+    font-size:20px;
+
+}
+
+#IB{
+    
+    margin: 40px;
+    text-align: right;
+    padding-right: 20px;
+    font-size: 20px;
+}
+#personality{
+    
+    margin: 40px;
+    text-align: left;
+    padding-right: 20px;
+    font-size: 20px;
+}
+#Contribution{
+    
+    margin: 40px;
+    text-align: right;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 200px;
+   height: 300x;
+   border-radius: 50%;
+   
+}
