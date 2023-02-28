@@ -4,7 +4,7 @@ body{
 #myself{
     background: linear-gradient(#0ce4e4 0%,#11be11 100%);
     margin: 30px;
-    text-align: right;
+    text-align: left;
     padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
@@ -31,7 +31,7 @@ body{
 #IB{
     
     margin: 40px;
-    text-align: right;
+    text-align: left;
     padding-right: 20px;
     font-size: 20px;
 }
@@ -45,7 +45,7 @@ body{
 #Contribution{
     
     margin: 40px;
-    text-align: right;
+    text-align: left;
     padding-right: 20px;
     font-size: 20px;
 }
